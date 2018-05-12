@@ -1,0 +1,33 @@
+_repo: Estudios-hist-ricos-del-reinado-de-Felipe-II_29078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fernández Duro, Cesáreo
+    aliases:
+    - Fernandez Duro, Cesareo
+    - Duro, Cesáreo Fernández
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '26355'
+    url: http://www.gutenberg.org/2009/agents/26355
+description: ''
+gutenberg_issued: '2009-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29078'
+  lccn: 03019880
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Pérez, Antonio, -1611'
+- !lcsh 'Jerba, Massacre of, 1560'
+- !lcsh 'Spain -- Politics and government -- 1556-1598'
+- !lcsh 'Spain -- History -- Philip II, 1556-1598'
+title: Estudios históricos del reinado de Felipe II
+url: http://www.gutenberg.org/ebooks/29078
